@@ -22,6 +22,19 @@
 
     <menu ref="reports"/>
 
+    <footer>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+      </a>
+      <br />
+      <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Java Dojo</span>
+      <span> by </span>
+      <a xmlns:cc="http://creativecommons.org/ns#" href="https://java-dojo.github.io" property="cc:attributionName" rel="cc:attributionURL">https://java-dojo.github.io</a>
+      <span> is licensed under a </span>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+      <span>.</span>
+    </footer>
+
   </body>
 
 </project>
