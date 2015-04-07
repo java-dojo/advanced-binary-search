@@ -8,6 +8,7 @@
   <packaging>jar</packaging>
 
   <name>Java Dojo - Advanced Binary Search</name>
+  <url>https://java-dojo.github.io/advanced-binary-search/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
