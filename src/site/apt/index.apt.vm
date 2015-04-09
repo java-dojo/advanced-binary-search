@@ -11,6 +11,10 @@ Specification
   Implement a binary search. If needed you can add further (private) methods to
   the class <<<BinarySearch>>>.
 
+Algorithm
+
+  See {{{https://java-dojo.github.io/binary-search/index.html#Algorithm}Binary Search Algorithm}}.
+
 Support
 
   To support you with implementing the method there are unit tests in
