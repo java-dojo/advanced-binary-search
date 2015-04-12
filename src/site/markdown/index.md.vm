@@ -28,10 +28,8 @@ exercise with one of the following constraints:
 
 * If you implemented the binary search with a recursive algorithm then create an
   iterative implementation.
-
 * If you implemented the binary search with an iterative algorithm then create a
   recursive implementation.
-
 * Implement the method without using an additional method.
 
 # Development Requirements
